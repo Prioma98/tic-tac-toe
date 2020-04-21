@@ -142,7 +142,7 @@ def check_diagonal():
   elif diagonal_2:
     return board[2]
   
-    return
+  return
 
 def flip_player():
   #if the current player is X flip to O
